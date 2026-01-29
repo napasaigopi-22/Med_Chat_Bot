@@ -1,0 +1,8 @@
+README.md
+setup.py
+Generative_AI_Agent.egg-info/PKG-INFO
+Generative_AI_Agent.egg-info/SOURCES.txt
+Generative_AI_Agent.egg-info/dependency_links.txt
+Generative_AI_Agent.egg-info/top_level.txt
+Src/__init__.py
+Src/agent.py

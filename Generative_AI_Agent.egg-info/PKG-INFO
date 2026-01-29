@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Generative-AI-Agent
+Version: 0.1.0
+Summary: A Generative AI Agent using Langchain and Flask
+Author: NAPA SAI GOPI
+Author-email: cb.sc.p2cse24008@cb.students.amrita.edu
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
